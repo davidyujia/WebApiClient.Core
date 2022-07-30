@@ -1,5 +1,7 @@
 # WebApiClient.Core
 
+[![.NET](https://github.com/davidyujia/WebApiClient.Core/actions/workflows/dotnet.yml/badge.svg)](https://github.com/davidyujia/WebApiClient.Core/actions/workflows/dotnet.yml)
+
 This is a base API client for quick create custom client.
 
 ## How to create a custom API client
